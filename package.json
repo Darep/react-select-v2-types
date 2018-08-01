@@ -1,0 +1,20 @@
+{
+  "contributors": [
+  ],
+  "dependencies": {
+    "@types/react": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for react-select",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/react-select",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.6",
+  "version": "2.0.0"
+}
