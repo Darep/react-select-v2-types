@@ -374,7 +374,7 @@ export interface GroupType {
     options: OptionsType;
 }
 
-export type FormatGroupLabel = (group: GroupType) => Node;
+export type FormatGroupLabel = (group: GroupType) => React.ReactNode;
 
 export function mergeStyles(source: object, target: object): {};
 
