@@ -438,7 +438,7 @@ export interface CreatableProps {
     allowCreateWhileLoading?: boolean;
     /* Gets the label for the "create new ..." option in the menu. Is given the
      current input value. */
-    formatCreateLabel?: (inputValue: string) => Node;
+    formatCreateLabel?: (inputValue: string) => React.ReactNode;
     /* Determines whether the "create new ..." option should be displayed based on
      the current input value, select value and options array. */
     isValidNewOption?: (
